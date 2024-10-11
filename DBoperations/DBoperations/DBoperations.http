@@ -1,6 +1,0 @@
-@DBoperations_HostAddress = http://localhost:5132
-
-GET {{DBoperations_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
